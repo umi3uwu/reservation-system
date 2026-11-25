@@ -1,4 +1,4 @@
-package com.alimzhan.reservation;
+package com.alimzhan.reservation.reservations;
 
 
 import jakarta.persistence.*;

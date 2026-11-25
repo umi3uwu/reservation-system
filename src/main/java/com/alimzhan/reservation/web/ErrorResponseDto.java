@@ -1,4 +1,4 @@
-package com.alimzhan.reservation;
+package com.alimzhan.reservation.web;
 
 import java.time.LocalDateTime;
 
